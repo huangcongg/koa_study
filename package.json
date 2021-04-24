@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/huangcongg/koa_study#readme",
   "dependencies": {
-    "koa": "^2.13.1"
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0"
   }
 }
